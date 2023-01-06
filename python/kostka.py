@@ -28,4 +28,3 @@ class Kostka:
   def __str__(self):
     return "Kostka s {0} stenami.".format(self.__pocetSten)
 
-
